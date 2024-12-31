@@ -1,9 +1,6 @@
 <h2 align="left">Hi 👋!<br> My name is Somanath<br>I'm a SharePoint Admin, Passionate Self Learner<br> From Chennai, India<br><br>Welcome to my personal GitHub page, where I share my projects and learning journey.</h2>
 
 ###
-
-<img align="right" height="150" src=""  />
-
 ###
 
 <div align="left">
@@ -39,6 +36,5 @@
 
 ###
 
-<p align="left"></p>
 
 ###
